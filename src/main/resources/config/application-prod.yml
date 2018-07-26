@@ -32,10 +32,6 @@ spring:
             enabled: false
         livereload:
             enabled: false
-    data:
-        mongodb:
-            uri: mongodb://localhost:27017
-            database: docmanagement
     mail:
         host: localhost
         port: 25
