@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "docmanagement",
+    "packageName": "com.eagle6.docmanagement",
+    "packageFolder": "com/eagle6/docmanagement",
+    "serverPort": 8082,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi"
+  },
+  "git-provider": "GitHub",
+  "git-company": "anklavez",
+  "repository-name": "docmanagement"
+}
